@@ -227,7 +227,7 @@ export const App = () => {
         </div>
 
         <div className="box table-container">
-          
+
           <p data-cy="NoMatchingMessage">
             No products matching selected criteria
           </p>
